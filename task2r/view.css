@@ -1,0 +1,24 @@
+.jumbotron{
+    background-color:#ADD8E6;
+}
+
+.row{
+    margin:0px;
+    }
+.text{
+    text-align:center;
+}
+table,td,tr{
+    border: 3px solid #000;
+    border-collapse: collapse;
+   }
+table{
+    width: 100%;
+}
+th,td{
+    padding : 15px;
+}
+p{
+    padding-left: 100px;
+}
+   

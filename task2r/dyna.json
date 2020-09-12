@@ -1,0 +1,21 @@
+{
+
+	"students":[
+		{
+			"name":"venky",
+			"mail":"venky23535@gmail.com",
+			"photo":"https://data.whicdn.com/images/304609542/original.jpg",
+			"link":"dynamicview.html"
+		},
+		{
+			"name":"niharika",
+			"mail":"nihapyla23535@gmail.com",
+			"photo":"https://i.pinimg.com/originals/d6/24/f7/d624f7875bb20d70d368d121250c0770.jpg",
+			"link" : "dynamicview2.html"
+		}
+	]
+		
+}
+	
+
+	

@@ -1,0 +1,59 @@
+{
+	"pic" : "https://data.whicdn.com/images/304609542/original.jpg",
+	"edu" : [
+        {
+            "grade" : "Grade",
+            "spcial" : "Specialization",
+            "insti" : ["Institute", "Name"],
+            "gpa" : "GPA/%",
+            "pyear" : "PYear"
+        },
+        {
+            "grade" : "10th",
+            "spcial" : "SSC",
+            "insti" : ["ABC", "high", "School"],
+            "gpa" : "80%",
+            "pyear" : "2014"
+        },
+        {
+            "grade" : "Intermediate",
+            "spcial" : "MPC",
+            "insti" : ["XYZ", "jnr", "College"],
+            "gpa" : "85%",
+            "pyear" : "2016"
+        },
+        {
+            "grade" : "B.Tech",
+            "spcial" : "ECE",
+            "insti" : ["GHT", "Engineering", "College"],
+            "gpa" : "7.5",
+            "pyear" : "2020"
+        }
+    ],
+	"skill":[
+		{
+			"name":"skills",
+			"courses":"c programming",
+			"course":"python"
+		},
+		{
+			"name":"projects",
+			"courses":"FPGA",
+			"course":"Gesture control pc"
+		},
+		{
+			"name":"Experince",
+			"courses":"winter internship",
+			"course":"summer internship"
+		}
+	],
+	
+	"act":
+	{
+		"l": ["mathematical", "club", "member"],
+		"l1": ["acleta","club", "member"]
+	}
+	}
+	
+
+	                                                                                                                                                          

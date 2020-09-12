@@ -1,0 +1,28 @@
+getJSON("view.json").then(d=>{
+   console.log(d);  
+skills_details(d.skills);
+education_details(d.education);
+})
+document.getElementById("a").innerHTML=`
+<div class = "container">
+<div class='container-fluid'>
+<div class = "jumbotron">
+<h1 style="text-align:center; color:blue;"> Resume</h1>
+</div>
+<div>
+</div>`
+var main = document.querySelector(".container");
+function student_details(n){
+var x = document.createElement("div");
+x.className = "col-sm-6";
+x.id = "parent-div";
+x.innerHTML = `<div class ="container">
+<div class = "row">
+<div class ="col-sm-6">
+<div class = "text-left">
+<h2>Profile Picture:</h2
+> <div class = "thumbnail"><img src="`+n.photo+` width="20%" height="5px"></div>
+<h2>Education:</h2> `+
+ul = document.createElement("ul");
+for (var i = 0;i <n.percen.length; i++){
+var li = document.createElement("li");
